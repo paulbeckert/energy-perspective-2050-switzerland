@@ -80,7 +80,7 @@ Electricity
 
 * `market for electricity, high voltage, EP2050` (CH)
 * `market for electricity, medium voltage, EP2050` (CH)
-* `market for electricity, medium voltage, EP2050` (CH)
+* `market for electricity, low voltage, EP2050` (CH)
 
 These markets are relinked to activities that consume electricity in Switzerland.
 
